@@ -74,4 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Large File Assets
-Content/*
+Content/AnimStarterPack/*
+Content/AssetPacks/*
