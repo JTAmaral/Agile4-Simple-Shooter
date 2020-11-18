@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/Unreal Projects/SimpleShooter/.vscode": true,
+		"D:/Unreal Projects/SimpleShooter/Content": true,
+		"D:/Unreal Projects/SimpleShooter/DerivedDataCache": true,
+		"D:/Unreal Projects/SimpleShooter/Intermediate": true,
+		"D:/Unreal Projects/SimpleShooter/Saved": true
+	}
+}
