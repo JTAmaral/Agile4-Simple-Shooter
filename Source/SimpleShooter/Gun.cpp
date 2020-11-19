@@ -59,7 +59,7 @@ void AGun::Tick(float DeltaTime)
 
 bool AGun::GunTrace(FHitResult& Hit, FVector& ShotDirection) 
 {
-	AController*  OwnerController = GetOwnerController();
+	AController* OwnerController = GetOwnerController();
 	if(OwnerController == nullptr)
 		return false;
 
